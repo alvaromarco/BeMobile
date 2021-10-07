@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- General -->
+    <dimen name="normal_padding">8dp</dimen>
+    <dimen name="content_padding">12dp</dimen>
+    <dimen name="large_padding">16dp</dimen>
+
+    <!-- Texts -->
+    <dimen name="text_size_small">14sp</dimen>
+    <dimen name="text_size_medium">16sp</dimen>
+    <dimen name="text_size_large">18sp</dimen>
+    <dimen name="text_size_xlarge">20sp</dimen>
+
+</resources>

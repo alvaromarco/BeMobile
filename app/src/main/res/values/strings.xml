@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BeMobile_AlvaroMarcoPerez</string>
+    <string name="transactions">Transacciones</string>
+
+    <string name="error_title">Error</string>
+    <string name="error_message">Ocurrió un error al obtener la información</string>
+    <string name="total">Total: %1$s€</string>
+</resources>
